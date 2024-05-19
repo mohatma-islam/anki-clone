@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Mohatma-Islam-s-workspace-rb77gc.eu-west-1.xata.sh/db/anki-clone",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
